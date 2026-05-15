@@ -7,7 +7,7 @@ The pipeline automatically collects live weather data for Athens from a public w
 stores the data in a CSV file, sends rainfall email alerts, and visualizes the collected time-series data  
 in an interactive Power BI dashboard.  
 The project was designed to simulate a lightweight real-world data workflow:  
-# Web Scraping → Automated Data Collection → CSV Storage → Email Alerts → Power BI Analytics  
+## Web Scraping → Automated Data Collection → CSV Storage → Email Alerts → Power BI Analytics  
 
 ## Technologies Used  
 
