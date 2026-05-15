@@ -5,9 +5,10 @@
 This project is an end-to-end weather monitoring and analytics pipeline built with Python and Power BI.  
 The pipeline automatically collects live weather data for Athens from a public weather website,  
 stores the data in a CSV file, sends rainfall email alerts, and visualizes the collected time-series data  
-in an interactive Power BI dashboard.  
+in an interactive Power BI dashboard. 
+
 The project was designed to simulate a lightweight real-world data workflow:  
-## Web Scraping → Automated Data Collection → CSV Storage → Email Alerts → Power BI Analytics  
+Web Scraping → Automated Data Collection → CSV Storage → Email Alerts → Power BI Analytics  
 
 ## Technologies Used  
 
@@ -82,16 +83,16 @@ Total Rainfall
 
 Time-Series Analysis
   
-- Temperature Trend Over Time  
+-Temperature Trend Over Time  
 A continuous time-series visualization showing temperature fluctuations throughout the week.  
 
-- Average Temperature by Hour  
+-Average Temperature by Hour  
 Shows the average daily temperature pattern based on hourly aggregation.  
 Main observation:  
 Temperatures increase toward midday and afternoon  
 Temperatures decrease during evening hours
  
-- Humidity Trend Over Time  
+-Humidity Trend Over Time  
 Area chart used to visualize humidity variability over time.  
 
 Correlation Analysis
