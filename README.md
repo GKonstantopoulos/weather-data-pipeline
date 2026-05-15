@@ -76,6 +76,7 @@ The dashboard includes:
 KPI Cards  
 Average Temperature  
 Maximum Temperature  
+Minimum Temperature  
 Average Humidity  
 Total Rainfall  
 
