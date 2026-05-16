@@ -24,7 +24,9 @@ Git & GitHub
 ## Project Structure  
 - [data/](data/) — Collected weather dataset in CSV format
 - [src/](src/) — Python pipeline script
-- [requirements.txt](requirements.txt) — Python dependencies 
+- [requirements.txt](requirements.txt) — Python dependencies
+- [powerbi/](powerbi/) — Power BI dashboard file
+- [images/](images/) — Dashboard screenshot
 
 ## Data Collection Pipeline  
 
@@ -69,6 +71,7 @@ Rain events are logged into the dataset
 SMTP email credentials were removed from the public repository for security reasons.  
 
 ## Power BI Dashboard  
+![Weather Dashboard](images/weather_image.png)  
 
 The Power BI dashboard was built using the collected CSV dataset.  
 
